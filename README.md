@@ -1,5 +1,4 @@
 <img width="800"  src = "./githubgb.png">
-<h3 align="center">A Guy Who Loves Programming ❤ </h3>
 
 <img class = "wdn-stretch remove-corners" align = "right"  alt = "coding" width = "400" src="https://upgifs.com//img/gifs/sJOkC8sAYKuju.gif">
 
