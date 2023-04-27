@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Sundesh here a.k.a Scaby!!</h1>
+<h1 align="center">Hi 👋 Sundesh here a.k.a Scaby!!</h1>
 <h3 align="center">Just a guy who loves programming from Pakistan</h3>
 
 <img align = "right" alt = "coding" width = "400" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47w31zp8qijkjujx86i5fsvqf324478tos3124rnnj&ep=v1_gifs_search&rid=giphy.gif&ct=g">
