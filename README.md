@@ -1,6 +1,6 @@
 <img width="800"  src = "./githubgb.png">
 
-<img class = "wdn-stretch remove-corners" align = "right"  alt = "coding" width = "400" src="https://upgifs.com//img/gifs/sJOkC8sAYKuju.gif">
+<img class = "wdn-stretch remove-corners" align = "right"  alt = "coding" width = "300" height = "200" src="https://upgifs.com//img/gifs/sJOkC8sAYKuju.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundesh7&label=Profile%20views&color=0e75b6&style=flat" alt="sundesh7" /> </p>
 
