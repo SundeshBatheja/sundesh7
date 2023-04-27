@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Sundesh here a.k.a Scaby!!</h1>
 <h3 align="center">Just a guy who loves programming from Pakistan</h3>
 
-<img align = "right" alt = "coding" width = "400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<img align = "right" alt = "coding" width = "400" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47w31zp8qijkjujx86i5fsvqf324478tos3124rnnj&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundesh7&label=Profile%20views&color=0e75b6&style=flat" alt="sundesh7" /> </p>
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/75batheja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="75batheja" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sundesh-batheja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sundesh-batheja" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sundesh-batheja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sundesh-batheja-433669192" height="30" width="40" /></a>
 <a href="https://instagram.com/itsbatheja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsbatheja" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sundesh batheja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sundesh batheja" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sundesh_batheja2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sundesh_batheja2" height="30" width="40" /></a>
