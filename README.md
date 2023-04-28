@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sundesh7&label=Profile%20views&color=0e75b6&style=flat" alt="sundesh7" /> </p>
 
 - 👨‍💻 I’m currently learning **Django**
+- 🔭 All of my projects are available at <a href="https://www.w3schools.com](https://linktr.ee/sundeshbatheja"> **sundesh batheja**</a> 
 
 - 📫 How to reach me **sundesh.batheja.75@gmail.com**
 
