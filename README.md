@@ -28,8 +28,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sundesh7&show_icons=true&theme=dark#gh-dark-mode-only" alt="sundesh7" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sundesh7&show_icons=true&theme=dark#gh-dark-mode-only" alt="sundesh7" /></p>
 <br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sundesh7&show_icons=true&theme=dark#gh-dark-mode-only" alt="sundesh7" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sundesh7&show_icons=true&theme=dark#gh-dark-mode-only" alt="sundesh7" /></p>
 <br><br><br><br><br><br><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sundesh7&show_icons=true&theme=dark#gh-dark-mode-only" alt="sundesh7" /></p>
