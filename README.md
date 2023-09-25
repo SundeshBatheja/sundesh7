@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sundesh.batheja.75@gmail.com**
 
-- ⚡ Fun fact <b>**I think iam a Good Singer**</b>
+- ⚡ Fun fact <b>**I think iam a Good Singer 😶‍🌫️**</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
