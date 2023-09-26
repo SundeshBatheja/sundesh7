@@ -31,5 +31,5 @@
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sundesh7&show_icons=true&theme=dark#gh-dark-mode-only" alt="sundesh7" /></p>
 <br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sundesh7&show_icons=true&theme=dark#gh-dark-mode-only" alt="sundesh7" /></p>
-<br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sundesh7&show_icons=true&theme=dark#gh-dark-mode-only" alt="sundesh7" /></p>
+
+
